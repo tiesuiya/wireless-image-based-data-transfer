@@ -1,0 +1,7 @@
+*Temp
+.idea
+
+# Project exclude paths
+/wlbdt-common/target/
+/wlbdt-producer/target/
+/wlbdt-receiver/target/
